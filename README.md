@@ -2,6 +2,8 @@
 
 Preview posters in real-size AR. Upload an image, pick a paper size, and see it at actual scale through your device's camera.
 
+**Demo: https://ubiquitous-o.github.io/PostAR/**
+
 ## How it works
 
 1. Select a poster image from your device
