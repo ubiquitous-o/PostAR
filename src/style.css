@@ -21,8 +21,21 @@ html, body {
 
 /* --- Header --- */
 header {
+  position: relative;
   text-align: center;
   padding: 24px 0 28px;
+}
+
+.github-link {
+  position: absolute;
+  top: 24px;
+  right: 0;
+  color: #555;
+  transition: color 0.2s;
+}
+
+.github-link:hover {
+  color: #fff;
 }
 
 h1 {
